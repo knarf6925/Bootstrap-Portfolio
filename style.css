@@ -2,8 +2,29 @@ img {
     float: left;
 }
 
-Body {
+.jumbotron {
+    background-image: url(assets/images/1.jpg);
+    }
+
+
+h1 {
+    font-family: monospace;
     
 }
 
+.fab fa-twitter-square {
+    font-size: 300px;
 
+}
+
+.navbar navbar-default {
+   color:blue;
+}
+
+h2 {
+    font-family: monospace;
+}
+
+a {
+    font-family: monospace;
+}
