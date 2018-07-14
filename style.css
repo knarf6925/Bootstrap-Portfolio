@@ -12,12 +12,8 @@ h1 {
     
 }
 
-.fab fa-twitter-square {
-    font-size: 300px;
 
-}
-
-.navbar navbar-default {
+.nav.navbar navbar-default {
    color:blue;
 }
 
