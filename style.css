@@ -1,15 +1,20 @@
 img {
     float: left;
+    box-shadow: 10px 10px 5px;
+     border: 1px solid black;
 }
 
 .jumbotron {
     background-image: url(assets/images/1.jpg);
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid black;
     }
 
 
 h1 {
     font-family: monospace;
-    
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px darkblue;
 }
 
 
@@ -19,8 +24,11 @@ h1 {
 
 h2 {
     font-family: monospace;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px darkblue;
 }
 
 a {
     font-family: monospace;
+    color: black;
 }
