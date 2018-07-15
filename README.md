@@ -1,7 +1,7 @@
-#Frank Santiesteban 
+# Frank Santiesteban 
 
-##Github: knarf6925
+## Github: knarf6925
 
 franksantiesteban80@gmail.com
 
-https://knarf6925.github.io/Bootstrap-Portfolio/
+https://knarf6925.github.io/Bootstrap-Portfolio/portfolio.html
